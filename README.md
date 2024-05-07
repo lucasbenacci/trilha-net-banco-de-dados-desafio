@@ -8,10 +8,10 @@ O objetivo principal deste projeto é fornecer um conjunto de consultas SQL que 
 
 As consultas SQL incluídas neste projeto abrangem uma variedade de cenários comuns de consulta de banco de dados, incluindo:
 
-Seleção de dados de uma única tabela.
-Utilização de cláusulas WHERE para filtrar os resultados.
-Ordenação de resultados com a cláusula ORDER BY.
-Utilização de funções de agregação como COUNT, SUM, AVG, etc.
-Agrupamento de dados com a cláusula GROUP BY.
-Utilização de junções entre tabelas para combinar dados de diferentes fontes.
-Subconsultas para realizar consultas mais complexas.
+* Seleção de dados de uma única tabela.
+* Utilização de cláusulas WHERE para filtrar os resultados.
+* Ordenação de resultados com a cláusula ORDER BY.
+* Utilização de funções de agregação como COUNT, SUM, AVG, etc.
+* Agrupamento de dados com a cláusula GROUP BY.
+* Utilização de junções entre tabelas para combinar dados de diferentes fontes.
+* Subconsultas para realizar consultas mais complexas.
